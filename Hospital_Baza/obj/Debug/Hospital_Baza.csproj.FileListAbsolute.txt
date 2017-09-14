@@ -1,0 +1,13 @@
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\bin\Debug\Hospital_Baza.exe.config
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\bin\Debug\Hospital_Baza.exe
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\bin\Debug\Hospital_Baza.pdb
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.csprojResolveAssemblyReference.cache
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.Form1.resources
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.Properties.Resources.resources
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.csproj.GenerateResource.Cache
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.csproj.CoreCompileInputs.cache
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.exe
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.pdb
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.Form2.resources
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.Girish.resources
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.DeleteDep.resources
