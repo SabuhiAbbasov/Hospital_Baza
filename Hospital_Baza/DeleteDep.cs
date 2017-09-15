@@ -22,11 +22,13 @@ namespace Hospital_Baza
         {
             var connString = @"Data Source=SEBUHI\SQLEXPRESS;Initial Catalog=Hospital;Integrated Security=False;User ID=sa;Password=Aa135246;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             SqlConnection conn = new SqlConnection(connString);
-
+            conn.Open();
             var texName = DepartamentName.Text;
 
             var selectsql = "DELETE from [dbo].[Department] Where Name = '"+texName+"'";
             var selectCmd = new SqlCommand(selectsql, conn);
+            selectCmd.ExecuteNonQuery();
+            conn.Close();
         }
 
         private void DeleteDep_Load(object sender, EventArgs e)
