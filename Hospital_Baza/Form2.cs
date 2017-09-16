@@ -4,9 +4,9 @@ using System.Windows.Forms;
 
 namespace Hospital_Baza
 {
-    public partial class Form2 : Form
+    public partial class AddDepartment : Form
     {
-        public Form2()
+        public AddDepartment()
         {
             InitializeComponent();
         }

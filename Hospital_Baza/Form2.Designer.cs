@@ -1,6 +1,6 @@
 ﻿namespace Hospital_Baza
 {
-    partial class Form2
+    partial class AddDepartment
     {
         /// <summary>
         /// Required designer variable.
@@ -91,7 +91,7 @@
             this.FullDepartment.TabIndex = 5;
             this.FullDepartment.Text = "Şöbə,Fax,Email,Phone";
             // 
-            // Form2
+            // AddDepartment
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -102,7 +102,7 @@
             this.Controls.Add(this.Fax);
             this.Controls.Add(this.FullDepartment);
             this.Controls.Add(this.Departament);
-            this.Name = "Form2";
+            this.Name = "AddDepartment";
             this.Text = "AddDepartment";
             this.ResumeLayout(false);
             this.PerformLayout();

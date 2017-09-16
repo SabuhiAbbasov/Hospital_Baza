@@ -20,10 +20,27 @@ namespace Hospital_Baza
 
         private void addDepartment_Click(object sender, EventArgs e)
         {
-            DeleteDep myForm = new DeleteDep();
+            AddDepartment myForm = new AddDepartment();
             //this.Hide();//
             myForm.Show();
 
+
+        }
+
+        private void EditDepartment_Click(object sender, EventArgs e)
+        {
+            EditDepartment myForm = new EditDepartment();
+            myForm.Show();
+        }
+
+        private void DeleteDepartment_Click(object sender, EventArgs e)
+        {
+            DeleteDep myform = new DeleteDep();
+            myform.Show();
+        }
+
+        private void AddDoctor_Click(object sender, EventArgs e)
+        {
 
         }
     }

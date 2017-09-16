@@ -8,6 +8,8 @@ C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza
 C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.csproj.CoreCompileInputs.cache
 C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.exe
 C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.pdb
-C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.Form2.resources
 C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.Girish.resources
 C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.DeleteDep.resources
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.EditDepartment.resources
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.AddDepartment.resources
+C:\Users\sebuhi\source\repos\Hospital_Baza\Hospital_Baza\obj\Debug\Hospital_Baza.AddDoctor.resources
